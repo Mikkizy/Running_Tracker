@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Running App</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+
+    <string name="google_maps_key">AIzaSyAc3lC2pxGcRGfdA7GI6p5kijgHmVf2KV0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
